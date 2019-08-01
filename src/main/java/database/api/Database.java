@@ -1,4 +1,4 @@
-package database;
+package database.api;
 
 import model.File;
 

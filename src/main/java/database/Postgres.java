@@ -1,5 +1,6 @@
 package database;
 
+import database.api.Database;
 import model.File;
 
 import java.util.ArrayList;
